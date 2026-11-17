@@ -27,8 +27,6 @@ DEPENDPATH += $$INCLUDEPATH
 # Legacy core sources (preserved)
 SOURCES += \
     CoreEntities.cpp \
-    DispatchManager.cpp \
-    SpatialGraph.cpp \
     main.cpp \
     mainwindow.cpp
 
